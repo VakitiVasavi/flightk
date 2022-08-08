@@ -1,7 +1,7 @@
 version: '3.1'
 services:
   API:
-    image: 'vasavi1308/flightmanagement-0.0.1'
+    image: 'vasavi13/flightmanagement-0.0.1'
     ports:
       - "8080:8080"
     depends_on:
